@@ -38,7 +38,7 @@
 			isShow: true
 		},
         {
-			title: 'temp',
+			title: 'Конец',
 			href: '/temp',
 			isShow: true
 		}
